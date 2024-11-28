@@ -29,6 +29,13 @@ Proyectos personales realizados para aprender nuevas tecnologías y herramientas
 Incluyen configuraciones, capturas de pantalla y tutoriales reproducibles.
 
 
+### 3. Prácticas de Clusters
+Proyectos relacionados con configuraciones distribuidas y de alta disponibilidad, como:
+- Implementación de clusters básicos.
+- Configuración y monitorización de recursos compartidos.
+
+
+
 ## Objetivos futuros
 
 1. Aprender a utilizar herramientas de contenedores como Docker y Kubernetes.
